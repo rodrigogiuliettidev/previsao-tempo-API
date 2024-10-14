@@ -57,13 +57,14 @@ Você precisará ter os seguintes itens instalados:
 2. Clique no botão de pesquisa para obter as informações meteorológicas para essa cidade.
 3. O aplicativo exibirá a temperatura, descrição do tempo, umidade, velocidade do vento e a bandeira do país da cidade selecionada.
 
-## Exemplo
-
-![Captura de Tela do Aplicativo](caminho/para/captura-de-tela.png)
-
 ## Estrutura do Projeto
 
-weather-forecast-app/ │ ├── index.html # Arquivo HTML principal ├── style.css # Arquivo de estilos da aplicação ├── script.js # Lógica principal em JavaScript └── README.md # Documentação do projeto
+weather-forecast-app/
+│
+├── index.html            # Arquivo HTML principal
+├── style.css             # Arquivo de estilos da aplicação
+├── script.js             # Lógica principal em JavaScript
+└── README.md             # Documentação do projeto
 
 ## Referências de API
 
