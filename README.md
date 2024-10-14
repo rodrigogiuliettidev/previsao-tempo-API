@@ -59,6 +59,7 @@ Você precisará ter os seguintes itens instalados:
 
 ## Estrutura do Projeto
 
+```bash
 weather-forecast-app/
 │
 ├── index.html            # Arquivo HTML principal
