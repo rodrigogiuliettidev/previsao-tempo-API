@@ -57,15 +57,6 @@ Você precisará ter os seguintes itens instalados:
 2. Clique no botão de pesquisa para obter as informações meteorológicas para essa cidade.
 3. O aplicativo exibirá a temperatura, descrição do tempo, umidade, velocidade do vento e a bandeira do país da cidade selecionada.
 
-## Estrutura do Projeto
-
-```bash
-weather-forecast-app/
-│
-├── index.html            # Arquivo HTML principal
-├── style.css             # Arquivo de estilos da aplicação
-├── script.js             # Lógica principal em JavaScript
-└── README.md             # Documentação do projeto
 
 ## Referências de API
 
@@ -75,3 +66,13 @@ weather-forecast-app/
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Estrutura do Projeto
+
+```bash
+weather-forecast-app/
+│
+├── index.html            # Arquivo HTML principal
+├── style.css             # Arquivo de estilos da aplicação
+├── script.js             # Lógica principal em JavaScript
+└── README.md             # Documentação do projeto
